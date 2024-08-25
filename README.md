@@ -17,7 +17,7 @@ The landing page is designed to provide a user-friendly and visually appealing i
 
 ## Live Demo
 
-You can view the live demo of the landing page at: [Innovative Solution Landing Page](https://66cafe7d57638be707a0e657--stunning-snickerdoodle-e6571d.netlify.app/)
+You can view the live demo of the landing page at: [Innovative Solution Landing Page](https://66cb50edbd7394361ce20be7--unique-gnome-ca28eb.netlify.app/)
 
 ## Technologies Used
 
