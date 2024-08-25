@@ -39,7 +39,7 @@ To use or contribute to this project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/innovative-solution-landing-page.git
+   git clone https://github.com/tahaghous16/Responsive-Website.git
    
 2. **Navigate to the Project Directory**
    ```bash
