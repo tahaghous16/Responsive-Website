@@ -35,8 +35,6 @@ You can view the live demo of the landing page at: [Innovative Solution Landing 
 
 ## Installation
 
-To use or contribute to this project, follow these steps:
-
 - **Clone the Repository**
    ```bash
    git clone https://github.com/tahaghous16/Responsive-Website.git
