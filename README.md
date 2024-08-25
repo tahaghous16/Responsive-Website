@@ -37,14 +37,10 @@ You can view the live demo of the landing page at: [Innovative Solution Landing 
 
 To use or contribute to this project, follow these steps:
 
-1. **Clone the Repository**
+- **Clone the Repository**
    ```bash
    git clone https://github.com/tahaghous16/Responsive-Website.git
    
-2. **Navigate to the Project Directory**
-   ```bash
-   cd innovative-solution-landing-page
-
 ## Conclusion
 Thank you for checking out the Innovative Solution landing page repository! We hope you find this project useful and inspiring. Feel free to explore, customize, and contribute to make it even better
 
